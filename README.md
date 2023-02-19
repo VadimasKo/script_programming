@@ -11,3 +11,4 @@ Each folder includes script, it's detailed definition and run commands.
 | 5 practice (php)          | [here](./5%20practice%20-%20PHP)         |
 | PROJECT - server launcher | [TODO](#3)                               |
 
+![I want to cry](meme-1.webp)
