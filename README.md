@@ -1,0 +1,1 @@
+# skriptinis_programavimas
