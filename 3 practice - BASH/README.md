@@ -31,3 +31,5 @@
 
 
 ## How to run 🛠️ <a name="3"></a>
+ 1. make script executable `chmod +x script.sh`
+ 2. run script `./script.sh` or `./script.sh username`
