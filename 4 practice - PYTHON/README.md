@@ -31,3 +31,4 @@
   ```
  
 ## How to run 🛠️ <a name="3"></a>
+ - run the script using `python script.py`

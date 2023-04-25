@@ -1,0 +1,55 @@
+2023-02-26 21:04:02####README.md####File Name: README.md
+File Path: 
+Owner: 1000
+Permissions: 0o644
+Create Time: 2023-02-26 21:03:41
+Access Time: 2023-02-19 21:44:11
+
+// LEAVE date
+// ADD command input line
+// FIX file PATH
+2023-02-26 21:07:31####/Do	####/Do	 is not a valid file or directory.
+2023-02-26 21:07:39####/Downloads####/Downloads is not a valid file or directory.
+2023-02-26 21:08:49####Downloads####Downloads is not a valid file or directory.
+2023-02-26 21:10:27####folder####Directory Name: folder
+Directory Path: folder
+Owner: 1000
+Permissions: 0o755
+Create Time: 2023-02-26 21:09:54
+Access Time: 2023-02-26 21:09:54
+
+Contents:
+
+2023-02-26 21:11:28####folder####Directory Name: folder
+Directory Path: folder
+Owner: 1000
+Permissions: 0o755
+Create Time: 2023-02-26 21:11:12
+Access Time: 2023-02-26 21:09:54
+
+Contents:
+nested_folder
+toplevel.txt
+
+2023-02-26 21:13:57####log.txt####
+File Name: log.txt 
+File Path: 
+Create Time: 2023-02-26 21:11:28
+Access Time: 2023-02-26 21:04:02
+2023-02-26 21:16:08####folder####Directory Name: folder
+Directory Path: folder
+Create Time: 2023-02-26 21:11:12
+Access Time: 2023-02-26 21:09:54
+
+Contents:
+nested_folder
+toplevel.txt
+
+2023-02-26 21:16:22####log.txt####
+File Name: log.txt 
+File Path: 
+Create Time: 2023-02-26 21:16:08
+Access Time: 2023-02-26 21:04:02
+2023-02-26 21:16:38####toplevel.txt####toplevel.txt is not a valid file or directory.
+2023-02-26 21:16:48####toplevel.txt####toplevel.txt is not a valid file or directory.
+2023-02-26 21:16:59####nestedfile####nestedfile is not a valid file or directory.
