@@ -21,3 +21,4 @@
   - Other columns - processes information (take as many as possible)
  
 ## How to run 🛠️ <a name="3"></a>
+ - run the script using `php script.`
