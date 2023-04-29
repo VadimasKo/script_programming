@@ -39,3 +39,5 @@
     ```
 
 ## How to run 🛠️ <a name="3"></a>
+[simulator](https://www.onworks.net/runos/create-os.html)  
+CLICK OT IN OR RUN USING WIN+R

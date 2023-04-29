@@ -30,3 +30,6 @@
   ```
 
 ## How to run 🛠️ <a name="3"></a>
+ - open powershell
+ - set `Set-ExecutionPolicy RemoteSigned`
+ - run `./script.ps1`
